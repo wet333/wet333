@@ -2,12 +2,12 @@
                               1001                              
                             11011011                            
                           010000011  0                          
-                        10011101100                             
-                       110100000 11                             
-                       1     011                                
-                      01  001100                                
-                      10      11         0                      
-                      1                  1                      
+                        10011101100                                   agustin@wet
+                       110100000 11                                   Position: Fullstack Web Developer
+                       1     011                                      Technologies: Java, Javascript, React.js, HTML, CSS
+                      01  001100                                      Languajes: Español(Spanish), English(Ingles) Intermedio
+                      10      11         0                            Skills & Perks: Problem solving, Systemic vision, Curiosity
+                      1                  1                            
                      10    00000          1                     
                     10     11000          0                     
                     1       0000                                
